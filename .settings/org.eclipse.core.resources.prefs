@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//elasticsearch/es_api.py=utf-8
+encoding//elasticsearch/index_mapping.py=utf-8
+encoding//utils/kafka2es.py=utf-8
+encoding//utils/logger.py=utf-8
+encoding/data2es.py=utf-8
